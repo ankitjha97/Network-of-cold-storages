@@ -4,7 +4,7 @@
 #include<string>
 #include<cstring>
 #include<sstream>
-#include<conio.h>
+//#include<conio.h>
 using namespace std;
 #include<windows.h>
 string st="oops";
